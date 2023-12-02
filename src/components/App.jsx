@@ -35,7 +35,6 @@ export class App extends Component {
       }));
     }
   };
-
   addFilter = event => {
     this.setState({ filter: event.currentTarget.value });
   };

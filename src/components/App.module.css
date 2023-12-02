@@ -15,8 +15,8 @@
     flex-direction: column;
     width: 600px;
     background-color: #fff;
-    box-shadow: 0 1px 0 rgba(17, 17, 26, 0.1), 0 8px 24px rgba(17, 17, 26, 0.1),
-        0 16px 48px rgba(17, 17, 26, 0.1);
-    color: #1f3349;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px,
+            rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.3) 0px 16px 48px;
+    color: black;
     border-radius: 10px;
 }

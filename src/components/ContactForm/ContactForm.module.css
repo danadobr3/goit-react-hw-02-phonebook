@@ -37,7 +37,7 @@
     background-color: #f3f6f9;
     border: none;
     border-radius: 20px;
-    color: #82909e;
+    color: grey;
     cursor: pointer;
     padding: 10px;
     text-align: center;
@@ -46,6 +46,6 @@
 }
 
 .form__btn:hover {
-    background-color: #4267b2;
-    color: #fff;
+    background-color: black;
+    color: white;
 }
